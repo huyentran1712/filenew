@@ -1,0 +1,10 @@
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\HT\HK7\PHAT_TRIEN_PM_U.DUNG_THONG_MINH\filenew\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
